@@ -1,4 +1,4 @@
-projectpmr
+projectpmr by @Lin20
 ==========
 
 "Pokemon Multiplayer Red"
